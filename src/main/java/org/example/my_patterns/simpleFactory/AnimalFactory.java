@@ -1,7 +1,7 @@
-package org.example.my_patterns.factoryClass;
+package org.example.my_patterns.simpleFactory;
 
-import org.example.my_patterns.factoryClass.animals.Cat;
-import org.example.my_patterns.factoryClass.animals.Dog;
+import org.example.my_patterns.simpleFactory.animals.Cat;
+import org.example.my_patterns.simpleFactory.animals.Dog;
 
 public class AnimalFactory {
     static Animal createAnimal(String type) {

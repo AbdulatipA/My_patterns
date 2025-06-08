@@ -1,4 +1,4 @@
-package org.example.my_patterns.factoryClass;
+package org.example.my_patterns.simpleFactory;
 
 public interface Animal {
      void speak();

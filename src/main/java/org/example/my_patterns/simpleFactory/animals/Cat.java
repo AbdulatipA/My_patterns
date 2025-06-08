@@ -1,6 +1,6 @@
-package org.example.my_patterns.factoryClass.animals;
+package org.example.my_patterns.simpleFactory.animals;
 
-import org.example.my_patterns.factoryClass.Animal;
+import org.example.my_patterns.simpleFactory.Animal;
 
 public class Cat implements Animal {
     @Override
