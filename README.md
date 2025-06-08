@@ -6,6 +6,6 @@
 
 >[Factory Method (Фабричный метод)](https://github.com/AbdulatipA/My_patterns/tree/master/src/main/java/org/example/my_patterns/factoryMethod)
 
->[Factory Class (Фабричный класс)](https://github.com/AbdulatipA/My_patterns/tree/master/src/main/java/org/example/my_patterns/factoryClass)
+>[Simple Factory(Простая фабрика)](https://github.com/AbdulatipA/My_patterns/tree/master/src/main/java/org/example/my_patterns/simpleFactory)
 
 
