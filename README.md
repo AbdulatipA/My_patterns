@@ -1,6 +1,6 @@
 # Самостоятельное изучение паттернов
 **Порождающие паттерны:**
->[Singleton](https://github.com/AbdulatipA/My_patterns)
+>[Singleton](https://github.com/AbdulatipA/My_patterns/tree/master/src/main/java/org/example/my_patterns/singleton)
 
 >[Prototype](https://github.com/AbdulatipA/My_patterns/tree/master/src/main/java/org/example/my_patterns/prototype)
 
