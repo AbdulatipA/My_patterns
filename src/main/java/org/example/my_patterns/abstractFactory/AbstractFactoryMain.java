@@ -10,12 +10,13 @@ public class AbstractFactoryMain {
             uiFactory = new WindowsUIFactory();
         } else if (osName.contains("mac")) {
             uiFactory = new MacOsUIFactory();
+        } else if (osName.contains("linux")) {
+            uiFactory = new LinuxUIFactory();
         } else {
             throw new RuntimeException("Неизвестная ОС: " + osName);
         }
 
         Application app = new Application(uiFactory);
-
         app.run();
     }
 }
